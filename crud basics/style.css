@@ -6,6 +6,12 @@ body {
 .container {
   display: flex;
   gap: 50px;
+  background-color: rgb(230, 201, 158);
+  align-items: center;
+}
+
+#form {
+  padding: 20px;
 }
 
 #posts {
